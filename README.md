@@ -16,7 +16,7 @@ The project focuses on generating controlled surface waves and analyzing their c
 - Sensor: HC-SR04 Ultrasonic Sensor (for wave detection)
   
 # How It Works
-- The DC motor-driven mechanism generates waves in the medium (e.g., water tank).
+- The DC motor-driven mechanism generates waves in the medium (e.g., water canal).
 - The HC-SR04 ultrasonic sensor measures distance variations caused by wave motion.
 - The Arduino collects sensor data and sends it to a computer.
 - MATLAB processes the data to analyze wave properties such as amplitude, frequency, and waveform patterns.
